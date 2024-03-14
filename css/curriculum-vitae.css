@@ -1,0 +1,50 @@
+body {
+    background-color: hsl(212, 88%, 22%);
+    font-family: sans-serif;
+    text-align: justify;
+    color: #f6f6f6;
+    background: #8360c3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    color: #f6f6f6;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color:black;
+    color: hsl(0, 0%, 100%);
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: hsl(200, 15%, 65%);
+    color: hsl(200, 15%, 40%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    font-weight: normal;
+}
+em{
+    color: White;
+}
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+    color:black;
+}
